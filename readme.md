@@ -1,4 +1,4 @@
-# 🖐️ Mage_v2 — AI Gesture Racing Controller
+# 🖐️ Mage_Motion_SSJ — AI Gesture Racing Controller
 
 A real-time deep learning powered gesture control system that allows users to drive racing games using hand movements instead of a keyboard or controller.
 
