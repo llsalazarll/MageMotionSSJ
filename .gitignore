@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Ignore all contents inside data_collection
+data_collection/**
+
+# Optional: keep folder structure but ignore contents
+# !data_collection/
+# !data_collection/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
